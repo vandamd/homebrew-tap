@@ -1,6 +1,6 @@
 cask "whisker" do
-  version "1.0.4"
-  sha256 "190d318bea7b4b73a8f448a4148d55df73ddbef9f67b39b615bd7093ee031506"
+  version "1.0.5"
+  sha256 "f81819352fc88460dbfb1266a511558a059336e7adda615301c3ae1d439f5c5e"
 
   url "https://github.com/vandamd/whisker/releases/download/v#{version}/Whisker-#{version}.zip"
   name "Whisker"
